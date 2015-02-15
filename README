@@ -1,0 +1,9 @@
+To run:
+$ python matrix_rain.py
+press 'q' to exit.
+
+Dependencies
+------------
+python 2.7.9
+curses 2.2
+numpy 1.9.1
